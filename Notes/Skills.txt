@@ -1,0 +1,76 @@
+Elemental Magic:
+- Fire:
+	+ Fire ball.
+	+ Explosion
+	+ Fusion Flare
+- Water:
+- Earth:
+	- Mapping.
+- Wind:
+	- Fly.
+- Void:
+- Light:
+	+ Flash
+	+ Mana burst.
+	+ Time bearier.
+	+ Light bearier.
+- Dark:
+	- Teteport
+	- Evasion
+
+Empowering Magic:
+
+
+Other:
+
+
+Healing Magic:
+- Resurrect
+- Revive
+- Cure -> Enhanced Cure -> High Cure -> Divine Cure. 
+
+
+Special Magic:
+- Deino - Lord of the icy wyverns.
+	- Dragon form.
+	- Infinite magic bag
+	- Mind manipulation
+		- Mind reading
+		- Mind control
+		- Erase memmory
+	- Spacial manipulation.
+	- Labirynth creator.
+	- Alchemist.
+	- Wand lord.
+	- Tamer.
+
+
+- Wolfrey - Lord of the burning wolves.
+	- Wolf form.
+	- Infinite magic bag
+	- Mind manipulation
+		- Mind reading
+		- Mind control
+		- Erase memmory
+	- Spacial manipulation.
+	- Artifact creator.
+	- Blacksmith.
+	- Sword lord.
+	- Tamer.
+
+- Alan - The child of the wolves.
+	- Infinite magic bag
+	- Mind manipulation
+		- Mind reading
+		- Mind control
+		- Erase memmory
+	- Spacial manipulation.
+	- Blacksmith.
+	- Tamer.
+
+- Galadriel - Seer of the forest.
+	- Foreseen.
+	- Mind manipulation
+		- Mind reading
+		- Mind control
+		- Erase memmory
