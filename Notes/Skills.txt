@@ -1,13 +1,15 @@
 Elemental Magic:
 - Fire:
 	+ Fire ball.
-	+ Explosion
+	+ Incinerate.
+	+ Explosion.
 	+ Fusion Flare
 - Water:
 - Earth:
 	- Mapping.
 - Wind:
 	- Fly.
+	- Voice Amplifying
 - Void:
 - Light:
 	+ Flash
@@ -22,6 +24,7 @@ Empowering Magic:
 
 
 Other:
+	- Double Team
 
 
 Healing Magic:
