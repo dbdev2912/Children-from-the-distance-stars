@@ -1,21 +1,24 @@
 Elemental Magic:
 - Fire:
-	+ Fire ball.
-	+ Incinerate.
-	+ Explosion.
-	+ Fusion Flare
+	+ Fire ball. -> Flame burst -> Explosion -> Fusion Flare.
+				 -> Incinerate -> Inferno 
+	
 - Water:
+	+ Waterball -> Waterpulse -> Flash flood -> Tsunami
+				-> Water prison -> Primordial sea
 - Earth:
 	- Mapping.
 - Wind:
 	- Fly.
-	- Voice Amplifying
+	- Voice Amplifying.
+	- Air Blast -> Hurrican -> Thunderstorm -> Desolate Tornado.
+	- Speed Boost.
 - Void:
 - Light:
 	+ Flash
 	+ Mana burst.
 	+ Time bearier.
-	+ Light bearier.
+	+ Bearier -> Light bearier.
 - Dark:
 	- Teteport
 	- Evasion
@@ -25,6 +28,9 @@ Empowering Magic:
 
 Other:
 	- Double Team
+
+Elf specialized magic:
+	- Bearier -> Light bearier -> Prismatic Bearier.
 
 
 Healing Magic:
