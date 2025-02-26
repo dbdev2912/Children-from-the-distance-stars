@@ -1,85 +1,89 @@
 Elemental Magic:
 - Fire:
-	+ Fire ball. -> Flame burst -> Explosion -> Fusion Flare.
-				 -> Incinerate -> Inferno 
+	+ [ Fire ball ]. -> [ Flame burst ] -> [ Explosion ] -> [ Fusion Flare ].
+				 -> [ Incinerate ] -> [ Inferno ] 
 	
 - Water:
-	+ Waterball -> Waterpulse -> Flash flood -> Tsunami
-				-> Water prison -> Primordial sea
+	+ [ Waterball ] -> [ Waterpulse ] -> [ Flash flood ] -> [ Tsunami ]
+				-> [ Water prison ] -> [ Primordial sea ]
 - Earth:
-	- Mapping.
+	- [ Mapping ].
 - Wind:
-	- Fly.
-	- Voice Amplifying.
-	- Air Blast -> Hurrican -> Thunderstorm -> Desolate Tornado.
-	- Speed Boost.
+	- [ Fly ].
+	- [ Voice Amplifying ].
+	- [ Air Blast ] -> [ Hurrican ] -> [ Thunderstorm ] -> [ Desolate Tornado ].
+	- [ Speed Boost.
 - Void:
 - Light:
-	+ Flash
-	+ Mana burst.
-	+ Time bearier.
-	+ Bearier -> Light bearier.
+	+ [ Flash ]
+	+ [ Mana burst ].
+	+ [ Time bearier ].
+	+ [ Bearier ] -> [ Light bearier ].
+
 - Dark:
-	- Teteport
-	- Evasion
+	- [ Teteport ]
+	- [ Evasion ]
+	- [ Gender Swap ]<Banned>, 
+	- [ Hypnosis ] 
 
 Empowering Magic:
-
+	- [ Bag Enhancement ]
 
 Other:
-	- Double Team
+	- [ Double Team ]
 
 Elf specialized magic:
-	- Bearier -> Light bearier -> Prismatic Bearier.
+	- [ Bearier ] -> [ Light Bearier ] -> [ Prismatic Bearier ].
+	- [ Bag Enhancement ] -> [ Prismatic Bag Enhancement ].
 
 
 Healing Magic:
-- Resurrect
-- Revive
-- Cure -> Enhanced Cure -> High Cure -> Divine Cure. 
+- [ Resurrect ]
+- [ Revive ]
+- [ Cure ] -> [ Enhanced Cure ] -> [ High Cure ] -> [ Divine Cure ]. 
 
 
 Special Magic:
-- Deino - Lord of the icy wyverns.
-	- Dragon form.
-	- Infinite magic bag
-	- Mind manipulation
-		- Mind reading
-		- Mind control
-		- Erase memmory
-	- Spacial manipulation.
-	- Labirynth creator.
-	- Alchemist.
-	- Wand lord.
-	- Tamer.
+- [ Deino - Lord of the icy wyverns ].
+	- [ Dragon form ].
+	- [ Infinite magic bag ]
+	- [ Mind manipulation ]
+		- [ Mind reading ]
+		- [ Mind control ]
+		- [ Erase memmory ]
+	- [ Spacial manipulation ].
+	- [ Labirynth creator ].
+	- [ Alchemist ].
+	- [ Wand lord ].
+	- [ Tamer ].
 
 
-- Wolfrey - Lord of the burning wolves.
-	- Wolf form.
-	- Infinite magic bag
-	- Mind manipulation
-		- Mind reading
-		- Mind control
-		- Erase memmory
-	- Spacial manipulation.
-	- Artifact creator.
-	- Blacksmith.
-	- Sword lord.
-	- Tamer.
+- [ Wolfrey - Lord of the burning wolves ].
+	- [ Wolf form ].
+	- [ Infinite magic bag ]
+	- [ Mind manipulation ]
+		- [ Mind reading ]
+		- [ Mind control ]
+		- [ Erase memmory ]
+	- [ Spacial manipulation ].
+	- [ Artifact creator ].
+	- [ Blacksmith ].
+	- [ Sword lord ].
+	- [ Tamer ].
 
-- Alan - The child of the wolves.
-	- Infinite magic bag
-	- Mind manipulation
-		- Mind reading
-		- Mind control
-		- Erase memmory
-	- Spacial manipulation.
-	- Blacksmith.
-	- Tamer.
+- [ Alan - The child of the wolves ].
+	- [ Infinite magic bag ]
+	- [ Mind manipulation ]
+		- [ Mind reading ]
+		- [ Mind control ]
+		- [ Erase memmory ]
+	- [ Spacial manipulation ].
+	- [ Blacksmith ].
+	- [ Tamer ].
 
-- Galadriel - Seer of the forest.
-	- Foreseen.
-	- Mind manipulation
-		- Mind reading
-		- Mind control
-		- Erase memmory
+- [ Galadriel - Seer of the forest ].
+	- [ Foreseen ].
+	- [ Mind manipulation ]
+		- [ Mind reading ]
+		- [ Mind control ]
+		- [ Erase memmory ]
