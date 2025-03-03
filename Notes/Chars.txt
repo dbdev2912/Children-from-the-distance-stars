@@ -48,6 +48,7 @@ Harley -> Đại diện ngành công nghiệp nhẹ Camute
 Harvey -> Viện trưởng Camute
 Emily -> Trưởng pháp sư đoàn.
 Elena -> Chỉ huy trưởng cục tình báo
+	Erin -> Tay phải Elena
 
 
 - Đế quốc Camute, Alan El Flammel đại đế.
@@ -66,8 +67,8 @@ Elena -> Chỉ huy trưởng cục tình báo
 - Frostalyst, chiến mẫu Lissy.
 
 - Tiểu đội Wylistina trong Arc 3 - chap 3: Silo, Kanzi, Bob, Drak, Tobias, Sebas, Sam, George.
-- Tiểu đội pháp sư Wylistina: Arc 3 - Chap 5: Marry, Urchin, Ken, Penny, Rem.
-- Ba hoàng tử Moloch Arc 3 - Chap 6: Zackscott Jeffrey, Michael Jeffrey, xxx Jeffrey.
+- Tiểu đội pháp sư Wylistina: Arc 3 - Chap 5: Marry, Urchin, Kent, Penny, Rem.
+- Ba hoàng tử Moloch Arc 3 - Chap 6: Zackscott Jeffrey, Michael Jeffrey, Ryan Jeffrey.
 
 
 - Natalya, Grigori, Stepan,
