@@ -91,9 +91,12 @@ Special Magic:
 - [ Pelicia - Keeper Of the forest ]
 
 - [ Tierra - The frost wand  ]
-	- Ice queen				
+	- Ice queen	
+	- Ice beam			
 	- Hail summoner
 
 
 
 - [ Cielo  - The frost sword ]
+	- Ice king
+	- Massive frost swing
