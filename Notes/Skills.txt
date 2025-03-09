@@ -11,8 +11,8 @@ Elemental Magic:
 - Wind:
 	- [ Fly ].
 	- [ Voice Amplifying ].
-	- [ Air Blast ] -> [ Hurrican ] -> [ Thunderstorm ] -> [ Desolate Tornado ].
-	- [ Speed Boost.
+	- [ Air Blast ] -> [ Hurricane ] -> [ Thunderstorm ] -> [ Desolate Tornado ].
+	- [ Speed Boost ].
 - Void:
 - Light:
 	+ [ Flash ]
@@ -41,6 +41,7 @@ Healing Magic:
 - [ Resurrect ]
 - [ Revive ]
 - [ Cure ] -> [ Enhanced Cure ] -> [ High Cure ] -> [ Divine Cure ]. 
+- [ Purify ] + [ __Curse name__ ]
 
 
 Special Magic:
