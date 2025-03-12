@@ -26,6 +26,9 @@ Elemental Magic:
 	- [ Gender Swap ]<Banned>, 
 	- [ Hypnosis ] 
 
+- Ice:
+	+ [ Freeze ]
+
 Empowering Magic:
 	- [ Bag Enhancement ]
 
@@ -35,6 +38,7 @@ Other:
 Elf specialized magic:
 	- [ Bearier ] -> [ Light Bearier ] -> [ Prismatic Bearier ].
 	- [ Bag Enhancement ] -> [ Prismatic Bag Enhancement ].
+	- [ Limit Break ]
 
 
 Healing Magic:
@@ -81,6 +85,20 @@ Special Magic:
 	- [ Spacial manipulation ].
 	- [ Blacksmith ].
 	- [ Tamer ].
+
+- [ Alice - The child of the wyverns ]
+	- [ Infinite magic bag ]
+	- [ Mind manipulation ]
+		- [ Mind reading ]
+		- [ Mind control ]
+		- [ Erase memmory ]
+	- [ Spacial manipulation ].
+	- [ Alchemist ].
+	- [ Tamer ].
+	- [ Song of the forest daughter ]
+		- [ Form Swap ]
+
+
 
 - [ Galadriel - Seer of the forest ].
 	- [ Foreseen ].
