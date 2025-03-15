@@ -32,13 +32,17 @@ Elemental Magic:
 Empowering Magic:
 	- [ Bag Enhancement ]
 
+
 Other:
 	- [ Double Team ]
 
 Elf specialized magic:
 	- [ Bearier ] -> [ Light Bearier ] -> [ Prismatic Bearier ].
 	- [ Bag Enhancement ] -> [ Prismatic Bag Enhancement ].
-	- [ Limit Break ]
+	- [ Astral Grace ]
+
+Dragonoid specialized magic:
+	- [ Dragon Dance ]
 
 
 Healing Magic:
